@@ -8,4 +8,10 @@ Customizable Steam Scraper
 
 To change the start requests you should edit the codeline for request, url in gen_steam_start_urls({requests_list}, {pages_list}) 
 
+
+Requirements:
+python 3.7+
+installed scrapy
+
+
 This was created for HSE Deep Python course HW3, 2022.
