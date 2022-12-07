@@ -1,0 +1,2 @@
+# SteamSpider
+Customizable Steam Scraper 
